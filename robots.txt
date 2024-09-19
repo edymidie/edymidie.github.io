@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edymidie.github.io/sitemap.html.gz
+Sitemap: https://edymidie.github.io/app/sitemap.html.gz
+Sitemap: https://edymidie.github.io/assets/sitemap.html.gz
+Sitemap: https://edymidie.github.io/css/sitemap.html.gz
+Sitemap: https://edymidie.github.io/data/sitemap.html.gz
+Sitemap: https://edymidie.github.io/includes/sitemap.html.gz
+Sitemap: https://edymidie.github.io/item/sitemap.html.gz
+Sitemap: https://edymidie.github.io/src/sitemap.html.gz
